@@ -1,0 +1,52 @@
+### Module positions - created on 07/26/21 22:01:07 ###
+### Printed by Pcbnew version kicad (5.1.10)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                                           PosX       PosY       Rot  Side
+C1        15pF                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   160.9801   -85.3872   90.0000  top
+C2        15pF                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   161.0106   -89.3851  270.0000  top
+C3        100nF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   118.5418   -49.5998   90.0000  top
+C4        10uF                CAPPM3216X180N                                115.5763   -61.0591  180.0000  top
+C5        220nF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   158.5011   -62.6403  270.0000  top
+C6        100nF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   142.3137   -60.3250  270.0000  top
+C7        22pF                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   136.7663   -66.4413   90.0000  top
+C8        22pF                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   136.7358   -70.5002   90.0000  top
+C9        10pF                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   111.4400   -69.9592    0.0000  top
+C10       10pF                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   111.4755   -73.6829  180.0000  top
+C11       C                   C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   132.1435   -98.5520    0.0000  top
+C12       C                   C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   132.3086   -92.3925    0.0000  top
+C13       100nF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   131.6888   -60.1777   90.0000  top
+C14       100nF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   161.0639   -93.4669   90.0000  top
+C15       100nF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   122.1054   -69.6544  180.0000  top
+C16       100nF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   125.9332  -102.1004    0.0000  top
+D2        LED                 LTST-C150GKT                                  118.5215   -54.8411  270.0000  top
+D3        LED                 LTST-C150GKT                                  177.5130   -51.1073  180.0000  top
+D4        LED                 LTST-C150GKT                                  177.5206   -54.6481  180.0000  top
+D5        LED                 LTST-C150GKT                                  177.5130   -62.2732  180.0000  top
+D6        LED                 LTST-C150GKT                                  177.5003   -58.2574  180.0000  top
+R1        10k                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   150.0251  -103.3272   90.0000  top
+R2        330                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   121.4907   -59.0855   90.0000  top
+R4        10k                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   134.9905   -60.1964  270.0000  top
+R5        10k                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   131.7650   -73.2739  270.0000  top
+R6        10k                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   127.9347   -73.2401  270.0000  top
+R7        330                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   119.9109   -80.1421    0.0000  top
+R8        330                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   119.9490   -90.3884    0.0000  top
+R9        1k                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   119.9642   -83.4466    0.0000  top
+R10       1k                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   119.9032   -87.0280    0.0000  top
+R11       330                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   119.7508  -100.3122    0.0000  top
+R12       330                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   119.6823   -96.9670    0.0000  top
+R13       1k                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   119.8474  -103.8301    0.0000  top
+R14       1k                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   119.8347  -107.2744    0.0000  top
+R15       R                   R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   132.1435  -101.6381  180.0000  top
+R16       R                   R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   132.2578   -95.4405  180.0000  top
+R17       330                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   172.2145   -51.1124    0.0000  top
+R18       330                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   172.2399   -54.4144    0.0000  top
+R19       330                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   172.2603   -62.2402    0.0000  top
+R20       330                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   172.2882   -58.2625    0.0000  top
+R21       470                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   138.6332   -60.1980  270.0000  top
+U1        PIC18F4550-IPT      TQFP-44_10x10mm_P0.8mm                        145.5674   -88.0872    0.0000  top
+U2        MCP2200-I-SO        SOIC-20W_7.5x12.8mm_P1.27mm                   150.9801   -66.4108    0.0000  top
+U3        MCP7940N-xSN        SOIC127P600X175-8N                            122.1486   -73.7870    0.0000  top
+U4        LM324               SOIC127P600X175-14N                           125.7808   -96.2152    0.0000  top
+U5        LD1117S50TR_SOT223  SOT-223-3_TabPin2                             126.3726   -53.5737  270.0000  top
+## End
